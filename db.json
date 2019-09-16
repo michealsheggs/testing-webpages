@@ -7,3 +7,24 @@
     ],
     "profile": { "name": "typicode" }
   }
+
+ {
+    "users":[
+      {
+        "id":1,
+      "firstname":"Micheal",
+      "lastname": "iluore",
+      "username": "michealsheggs",
+      "password":"sheggs453",
+      },
+      {
+        "id":2,
+      "firstname":"daniel",
+      "lastname": "john",
+      "username": "danjo",
+      "password":"jojo123",
+      }
+    ],
+    "posts":[],
+    "comments":[]
+  }
